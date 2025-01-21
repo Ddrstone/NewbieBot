@@ -101,7 +101,7 @@ clear
 echo -e "\033[96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e " \e[1;971m                MEMASANG NEWBIEBOT WHATSAPP               \e[0m"
 echo -e "\033[96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-git clone https://github.com/diah082/NewbieBot
+git clone https://github.com/Ddrstone/NewbieBot
 cd NewbieBot
 npm i
 pm2 start index.js
